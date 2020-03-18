@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Fira+Sans&display=swap');
+
+* {
+    font-family: 'Fira Sans', sans-serif;
+}
+
+#log {
+    font-size: 700px;
+    margin-top: 0px;
+}
+
+#intro {
+    margin-bottom: -10px;
+    font-size: 30px;
+}
+
+#page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
